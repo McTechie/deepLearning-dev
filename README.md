@@ -1,2 +1,2 @@
 # DL_Coursera
-Deep Learning algorithms using Jupyter IPython Notebooks
+Deep Learning algorithms implemented in Jupyter IPython Notebooks
